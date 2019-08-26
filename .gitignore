@@ -1,0 +1,9 @@
+# Directories
+.idea/
+out/
+
+# Files
+*.iml
+*.ipr
+*.iws
+.DS_Store
