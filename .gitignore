@@ -1,6 +1,9 @@
 # Directories
 .idea/
 out/
+build/
+pkg/
+src/github.com/
 
 # Files
 *.iml
