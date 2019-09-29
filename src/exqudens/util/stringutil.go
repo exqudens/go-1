@@ -1,4 +1,4 @@
-package string
+package util
 
 func Count(arg1 string) (res1 int64) {
 	if len(arg1) > 0 {
